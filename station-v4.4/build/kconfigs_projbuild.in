@@ -1,0 +1,6 @@
+source "C:/Users/Hamza/esp/v4.4.5/esp-idf/components/app_update/Kconfig.projbuild"
+source "C:/Users/Hamza/esp/v4.4.5/esp-idf/components/bootloader/Kconfig.projbuild"
+source "C:/Users/Hamza/esp/v4.4.5/esp-idf/components/esp_rom/Kconfig.projbuild"
+source "C:/Users/Hamza/esp/v4.4.5/esp-idf/components/esptool_py/Kconfig.projbuild"
+source "C:/Users/Hamza/esp/v4.4.5/esp-idf/components/partition_table/Kconfig.projbuild"
+source "C:/Users/Hamza/Documents/esp-idf/Projects/WiFi/station-v4.4/main/Kconfig.projbuild"

@@ -1,0 +1,21 @@
+dependencies:
+  espressif/led_strip:
+    component_hash: 67d2744208e9c12d8b1992d21c979396c1726e57cb7e35e7c171c515be20f8ea
+    source:
+      service_url: https://api.components.espressif.com/
+      type: service
+    version: 2.5.3
+  idf:
+    component_hash: null
+    source:
+      type: idf
+    version: 5.1.1
+  lwip:
+    component_hash: null
+    source:
+      path: C:\Users\Hamza\Documents\esp-idf\Projects\WiFi\station-v5.1\components\lwip
+      type: local
+    version: '*'
+manifest_hash: 5eff7c14bc62216b75748a8d0718bc88519a50b630b8d01c43aab6e68f0dc447
+target: esp32s3
+version: 1.0.0

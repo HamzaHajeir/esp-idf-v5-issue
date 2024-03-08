@@ -1,0 +1,15 @@
+dependencies:
+  idf:
+    component_hash: null
+    source:
+      type: idf
+    version: 4.4.5
+  lwip:
+    component_hash: null
+    source:
+      path: C:\Users\Hamza\Documents\esp-idf\Projects\WiFi\station-v4.4\components\lwip
+      type: local
+    version: '*'
+manifest_hash: d51a403e1067dcdfece3e302917d53675341f4466826f1473b964096a8b37820
+target: esp32s3
+version: 1.0.0
